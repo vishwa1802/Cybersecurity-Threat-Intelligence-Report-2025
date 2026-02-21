@@ -1,21 +1,23 @@
+# 🔐 Cybersecurity Threat Intelligence Report (2024–2025)
 
-# Cyber Security & Ethical Hacking – Task 1
+This project presents a Threat Intelligence Report analyzing major modern cybersecurity threats, their real-world impact, and recommended preventive measures.
 
-## Project Overview
-Threat Intelligence Report highlighting major cybersecurity threats (2024–2025), their impact, real-world case studies, and preventive measures.
+## 📌 Covered Topics
+- AI-Powered Phishing Attacks  
+- Ransomware-as-a-Service (RaaS)  
+- Cloud Security Misconfigurations  
+- IoT Vulnerabilities  
+- Zero-Day Exploits  
 
-## Covered Topics
-- AI-Powered Phishing
-- Ransomware-as-a-Service (RaaS)
-- Cloud Misconfigurations
-- IoT Vulnerabilities
-- Zero-Day Exploits
+## 📊 Report Includes
+- Threat Explanation  
+- Real-World Case Studies  
+- Impact on Individuals & Organizations  
+- Preventive Security Measures  
 
-## Deliverable
-- Cybersecurity_Threat_Report_Task1.pdf
+## 🎯 Objective
+To understand the evolving cybersecurity landscape and develop research-based threat analysis skills.
 
-## Skills Demonstrated
-- Cyber Threat Research
-- Risk Analysis
-- Case Study Evaluation
-- Security Recommendations
+---
+
+⭐ A portfolio-ready project for Cybersecurity & Ethical Hacking internship.
